@@ -10,7 +10,7 @@
 > Of course, it also includes HTML and CSS
 
 ## 📦Project
-- Miao DataBase[MiaoDB] (building)
+- Blankly DataBase[BlanklyDB] (building)
 
 ## 📪Contact information
 - QQ: 3284316248

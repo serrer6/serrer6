@@ -1,8 +1,6 @@
 # Serrer6 Github
-- 👋 Hi, I’m @serrer6,From China
-- 👀 I’m interested in develop,When I have free time, I will make some little things.So there are many strange things on my github...
-- 🕹 Everyone loves games!Minecraft/Mindustry Its my most frequently seen game.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serrer6)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serrer6&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ## 🔨Programming language used（Ranking list）
 1. Python
 2. JavaScript
